@@ -1,9 +1,9 @@
-const ConstantsWin = require('./constantsWin');
+const Constants = require('./constantsMac'); // WIN
 
 class TestSteps{
 
     openNewModel(){
-        console.log("XPATH: ",ConstantsWin.clickFile);
+        console.log("XPATH: ",Constants.clickFile);
     }
 }
 

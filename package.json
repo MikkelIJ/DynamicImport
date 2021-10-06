@@ -4,7 +4,8 @@
   "description": "An example project to work on dynamic imported classes",
   "main": "main.js",
   "scripts": {
-    "start": "node ./src/main.js"
+    "start": "node ./src/main.js",
+    "start-PM": "./platformManager.sh && node ./src/main.js"
   },
   "repository": {
     "type": "commonjs",

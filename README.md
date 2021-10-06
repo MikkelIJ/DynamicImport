@@ -5,3 +5,8 @@ To run code:
 ```sh
 npm run start
 ```
+
+## HACKERMAN
+Made script **platformManager.sh**
+it renames all files with the string **constantsWin** and replaces it with **constantsMac**
+Now I need to find out how to do it on windows

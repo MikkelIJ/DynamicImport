@@ -1,9 +1,9 @@
 
-class ConstantsWin{
+class Constants{
     
     get clickFile(){
         return ">>Path to element on Windows<<";
     }
 }
 
-module.exports = new ConstantsWin;
+module.exports = new Constants;
