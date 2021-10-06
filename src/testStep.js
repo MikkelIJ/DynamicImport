@@ -2,8 +2,8 @@ const ConstantsWin = require('./constantsWin');
 
 class TestSteps{
 
-    sayHello(){
-        console.log(ConstantsWin.clickFile);
+    openNewModel(){
+        console.log("XPATH: ",ConstantsWin.clickFile);
     }
 }
 

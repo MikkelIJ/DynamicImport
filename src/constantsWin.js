@@ -2,7 +2,7 @@
 class ConstantsWin{
     
     get clickFile(){
-        return "Hello from Windows";
+        return ">>Path to element on Windows<<";
     }
 }
 

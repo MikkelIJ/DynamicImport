@@ -2,7 +2,7 @@
 class ConstantsMac{
     
     get clickFile(){
-        return "Hello from macOS";
+        return ">>Path to element on macOS<<";
     }
 }
 
