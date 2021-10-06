@@ -1,0 +1,22 @@
+{
+  "name": "dynamicimport",
+  "version": "1.0.0",
+  "description": "An example project to work on dynamic imported classes",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "commonjs",
+    "url": "git+https://github.com/MikkelIJ/DynamicImport.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mikkel IR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikkelIJ/DynamicImport/issues"
+  },
+  "homepage": "https://github.com/MikkelIJ/DynamicImport#readme"
+}
