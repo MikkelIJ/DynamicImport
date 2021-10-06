@@ -4,7 +4,7 @@
   "description": "An example project to work on dynamic imported classes",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node ./src/main.js"
   },
   "repository": {
     "type": "commonjs",
